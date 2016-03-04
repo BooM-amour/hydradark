@@ -1,4 +1,4 @@
---shared by @BlackHatchannel
+--shared by @zvirusx
 local function run(msg, matches)
 
   if not is_sudo(msg) then -- For Sudoers only !
@@ -33,4 +33,4 @@ return {
 
 }
 
---shared by @blackHatChannel
+--shared by @zvirusx
