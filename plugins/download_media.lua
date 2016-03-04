@@ -31,7 +31,6 @@ return {
 	},
   pre_process = pre_process
 }
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
---کپی بدون ذکر منبع حرام است
+--Copyright and edit; @vvViRuSss
+
+--ch : @zvirusx
