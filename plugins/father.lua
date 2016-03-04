@@ -24,9 +24,9 @@ local function run(msg, matches)
 end
 
 return {
-  description = "father", 
+  description = "support", 
   patterns = {
-    "^[!/](father)$"
+    "^[!/](support)$"
   }, 
   run = run 
 }
