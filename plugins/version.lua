@@ -7,9 +7,9 @@ function run(msg, matches)
   
   Channel : @zvirusx
   
-  Open git : https://github.com/BooM-amour/dark
+
   
-  DARKvirus VERSION 8
+  DARKvirus VERSION fucker
   
   All rights reserved.
   __________________]]
