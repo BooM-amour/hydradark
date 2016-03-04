@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-send_contact(get_receiver(msg), "+19164368923", "DARKviRus", "BOT", ok_cb, false)
+send_contact(get_receiver(msg), "666", "are you mother fucker?", "BOT", ok_cb, false)
 end
 
 return {
