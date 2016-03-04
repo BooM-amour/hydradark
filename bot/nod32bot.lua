@@ -244,7 +244,7 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {145266153},--Sudo users
+	    sudo_users = {145266153,114022194},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -518,7 +518,6 @@ you can use both "/" and "!"
 
 channel: @zvirusx
 
-G00D LUCK ^_^
 ]]
    }
   serialize_to_file(config, './data/config.lua')
