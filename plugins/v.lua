@@ -1,7 +1,7 @@
 do
 
 function run(msg, matches)
-  return 'DARKvirus v8'.. VERSION .. [[ 
+  return 'DARKvirus fucker'.. VERSION .. [[ 
  
   Developer : @vvViRuSss
   
@@ -17,9 +17,9 @@ end
 
 return {
   description = "Shows bot version", 
-  usage = "!version: Shows bot version",
+  usage = "!v: Shows bot version",
   patterns = {
-    "^!version$"
+    "^!v$"
   }, 
   run = run 
 }
