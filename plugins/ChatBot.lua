@@ -1,4 +1,4 @@
---shared by @blackhatchannel
+--shared by @vvViRuSss
 local function run(msg)
 if msg.text == "hi" then
 	return "Hello bb"
@@ -7,46 +7,46 @@ if msg.text == "Hi" then
 	return "Hello honey"
 end
 if msg.text == "Hello" then
-	return "Hi bb"
+	return "Hi bayB"
 end
 if msg.text == "hello" then
-	return "Hi honey"
+	return "WelCome sweeti"
 end
 if msg.text == "Salam" then
-	return "Salam aleykom"
+	return "pekh"
 end
 if msg.text == "salam" then
-	return "va aleykol asalam"
+	return "HeLLo"
 end
-if msg.text == "blackhat" then
-	return "my love blackhat"
+if msg.text == "boos" then
+	return "timara moos"
 end
-if msg.text == "Blackhat" then
-	return "my father blackhat"
+if msg.text == "آمور" then
+	return "بابا جونم؟"
 end
-if msg.text == "BLACKHAT" then
-	return "Kheily Radifeh"
+if msg.text == "VIRUS" then
+	return "niazi nist tarif konam kie DG"
 end
 if msg.text == "Security" then
-	return "Yes?"
+	return "question??"
 end
 if msg.text == "security" then
 	return "What?"
 end
-if msg.text == "bot" then
+if msg.text == "virus" then
 	return "hum?"
 end
 if msg.text == "Bot" then
-	return "Huuuum?"
+	return "JooOOoonZ"
 end
 if msg.text == "?" then
-	return "Hum??"
+	return "بنال"
 end
 if msg.text == "Bye" then
 	return "Babay"
 end
 if msg.text == "bye" then
-	return "boro bay"
+	return "GooD LucK"
 end
 end
 
@@ -56,8 +56,8 @@ return {
 	patterns = {
 		"^[Hh]i$",
 		"^[Hh]ello$",
-		"^[Bb]lackhat$",
-		"^BLACKHAT$",
+		"^[Vv]irus$",
+		"^VIRUS$",
 		"^[Bb]ot$",
 		"^[Ss]ecurity$",
 		"^[Bb]ye$",
@@ -68,4 +68,3 @@ return {
     --privileged = true,
 	pre_process = pre_process
 }
---shared by @blackhatchannel
