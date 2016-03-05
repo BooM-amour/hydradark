@@ -21,7 +21,7 @@ end
 if msg.text == "boos" then
 	return "timara moos"
 end
-if msg.text == "آمور" then
+if msg.text == "amour" then
 	return "بابا جونم؟"
 end
 if msg.text == "VIRUS" then
@@ -34,7 +34,7 @@ if msg.text == "security" then
 	return "What?"
 end
 if msg.text == "virus" then
-	return "hum?"
+	return "@vvViRuSss is dead"
 end
 if msg.text == "Bot" then
 	return "JooOOoonZ"
@@ -45,6 +45,11 @@ end
 if msg.text == "Bye" then
 	return "Babay"
 end
+if msg.text == "SUDO" then
+	return "PEDARE MANE baba HOssein" then
+
+end
+
 if msg.text == "bye" then
 	return "GooD LucK"
 end
@@ -54,6 +59,7 @@ return {
 	description = "Chat With Robot Server", 
 	usage = "chat with robot",
 	patterns = {
+		"^[Aa]mour$",
 		"^[Hh]i$",
 		"^[Hh]ello$",
 		"^[Vv]irus$",
