@@ -1,15 +1,15 @@
 do
 
 function run(msg, matches)
-  return 'DARKvirus fucker'.. VERSION .. [[ 
+  return 'HYDRA'.. VERSION .. [[ 
  
-  Developer : @vvViRuSss
+  Developer : @HYDRA007
   
   Channel : @zvirusx
   
 
   
-  DARKvirus VERSION fucker
+  HYDRA VERSION fucker
   
   All rights reserved.
   __________________]]
