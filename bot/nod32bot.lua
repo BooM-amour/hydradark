@@ -249,8 +249,8 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 
-channel : @zvirusx
-channel : @ARTwork_v_S
+channel : @HYDRA007
+
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -315,7 +315,7 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @zvirusx
+sudo: @HYDRA007
 
 ]],
     help_text = [[
@@ -516,7 +516,7 @@ ch: @zvirusx
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @zvirusx
+sudo: @HYDRA007
 
 ]]
    }
